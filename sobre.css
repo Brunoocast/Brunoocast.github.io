@@ -1,5 +1,36 @@
 body 
-{ 
-     font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
-     color:#326275
+{     
+     width: 940px;
+     margin-left: auto;
+     margin-right: auto;
+     font-family: "Gill Sans", "Gill Sans MT", "Trebuchet MS", sans-serif;
+     color:#326275;
+}
+
+h1 {
+     padding: 10px;
+     background-color: bisque;
+}
+
+h2 {
+    border-bottom: 2px solid black;
+}
+
+figure {
+    margin-top: 10ppx;
+     
+}
+
+
+figcaption
+{
+    color: white;
+    font-style: italic;
+    margin-top: 10px;
+}
+.logo-empresa {
+    width: 550px;
+    margin-left: auto;
+    margin-right: auto;
+
 }
